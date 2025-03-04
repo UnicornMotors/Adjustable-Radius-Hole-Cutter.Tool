@@ -5,3 +5,6 @@ sch:
 
 index:
 - https://www.rockler.com/mibro-adjustable-radius-hole-cutter
+
+# for: Metal
+- https://www.malcotools.com/product/gold-standard-malco-hole-cutters/
